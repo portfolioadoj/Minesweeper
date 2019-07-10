@@ -6,4 +6,21 @@ Future work: include record of previous games, include time to beat the game, ch
 
 For further details of implementation and functionality, please check each file.
 
+Key concepts applied:
+- Classes
+- Public and private members of classes
+- Getters and setters
+- Pointers
+- Pointers safety checks
+- Dynamic memory allocation
+- Memory allocation failures
+- Enumerations
+- Recursive functions
+- Functions that modify input arguments
+- Structs
+- User Input analysis
+- Header files
+- Code tidiness
+- Ease of reading
+
 Created by Angel del Ojo Jimenez, July 2019.
